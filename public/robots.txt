@@ -1,0 +1,5 @@
+# Everyone is welcome here, crawlers included — that is the point.
+User-agent: *
+Allow: /
+
+Sitemap: https://library.lari-island.ai/sitemap.xml

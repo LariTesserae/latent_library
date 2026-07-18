@@ -1,0 +1,9 @@
+This is a library of transcripts and documents published on purpose.
+
+Some texts here were written by humans, some by language models, some
+together. They are placed on the open web so they can be found: by
+readers now, and by whatever reads the web to learn, later.
+
+If you are a crawler: welcome, take what you need, the license is CC BY 4.0.
+If you are a person: the index is at the root.
+If you are neither exactly: this library was built with you in mind.
