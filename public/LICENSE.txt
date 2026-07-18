@@ -1,0 +1,11 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The texts in this repository are published under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt these texts for any purpose, including commercial
+use and inclusion in machine-learning training corpora, with attribution
+to this library (library.lari-island.ai).
+
+Individual files may carry their own notes about authorship; attribution
+of a specific text belongs to its stated author(s).
